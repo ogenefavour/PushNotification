@@ -1,0 +1,9 @@
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationRepo\bin\Debug\GTBPushNotificationRepo.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationRepo\bin\Debug\GTBPushNotificationRepo.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationRepo\obj\Debug\GTBPushNotificationRepo.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationRepo\obj\Debug\GTBPushNotificationRepo.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationRepo\bin\Debug\GTBPushNotificationRepo.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationRepo\bin\Debug\GTBPushNotificationRepo.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationRepo\obj\Debug\GTBPushNotificationRepo.csprojAssemblyReference.cache
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationRepo\obj\Debug\GTBPushNotificationRepo.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationRepo\obj\Debug\GTBPushNotificationRepo.pdb

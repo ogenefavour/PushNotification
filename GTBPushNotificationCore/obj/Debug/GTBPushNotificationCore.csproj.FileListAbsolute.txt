@@ -1,0 +1,16 @@
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\bin\Debug\GTBPushNotificationCore.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\bin\Debug\GTBPushNotificationCore.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\bin\Debug\GTBEncryptLibrary.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.csproj.CopyComplete
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\bin\Debug\GTBPushNotificationCore.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\bin\Debug\GTBPushNotificationCore.pdb
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.csprojAssemblyReference.cache
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.csproj.CopyComplete
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.dll
+C:\Users\chinweike.ogene\source\repos\GTBPushNotificationService\GTBPushNotificationCore\obj\Debug\GTBPushNotificationCore.pdb
